@@ -1,0 +1,2 @@
+local-puppet-invocation
+=======================
